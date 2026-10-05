@@ -2,7 +2,7 @@
 
 ![Plateforme](https://img.shields.io/badge/Plateforme-PortSwigger-orange)
 ![Domaine](https://img.shields.io/badge/Domaine-S%C3%A9curit%C3%A9%20Web-blue)
-![Labs résolus](https://img.shields.io/badge/Labs%20r%C3%A9solus-4-brightgreen)
+![Labs résolus](https://img.shields.io/badge/Labs%20r%C3%A9solus-5-brightgreen)
 
 Write-ups personnels des labs que je résous sur la [Web Security Academy](https://portswigger.net/web-security) de PortSwigger, dans le cadre de ma formation en sécurité offensive web.
 
@@ -18,6 +18,7 @@ Chaque write-up suit la même structure : le contexte du lab, la démarche suivi
 | 2 | Login bypass | Apprentice | [Lire](sql-injection-login-bypass.md) |
 | 3 | UNION attack : déterminer le nombre de colonnes | Practitioner | [Lire](sql-injection-union-determine-number-of-columns.md) |
 | 4 | UNION attack : trouver une colonne contenant du texte | Practitioner | [Lire](sql-injection-union-finding-column-containing-text.md) |
+| 5 | UNION attack : extraire des données d'autres tables | Practitioner | [Lire](sql-injection-union-retrieving-data-from-other-tables.md) |
 
 ## Ce que couvrent ces write-ups
 
