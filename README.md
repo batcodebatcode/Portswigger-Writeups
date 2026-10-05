@@ -2,7 +2,7 @@
 
 ![Plateforme](https://img.shields.io/badge/Plateforme-PortSwigger-orange)
 ![Domaine](https://img.shields.io/badge/Domaine-S%C3%A9curit%C3%A9%20Web-blue)
-![Labs résolus](https://img.shields.io/badge/Labs%20r%C3%A9solus-2-brightgreen)
+![Labs résolus](https://img.shields.io/badge/Labs%20r%C3%A9solus-3-brightgreen)
 
 Write-ups personnels des labs que je résous sur la [Web Security Academy](https://portswigger.net/web-security) de PortSwigger, dans le cadre de ma formation en sécurité offensive web.
 
@@ -16,6 +16,7 @@ Chaque write-up suit la même structure : le contexte du lab, la démarche suivi
 |---|-----|--------|----------|
 | 1 | Retrieval of hidden data (clause WHERE) | Apprentice | [Lire](sql-injection-where-clause-hidden-data.md) |
 | 2 | Login bypass | Apprentice | [Lire](sql-injection-login-bypass.md) |
+| 3 | UNION attack : déterminer le nombre de colonnes | Practitioner | [Lire](sql-injection-union-determine-number-of-columns.md) |
 
 ## Ce que couvrent ces write-ups
 
