@@ -2,7 +2,7 @@
 
 ![Plateforme](https://img.shields.io/badge/Plateforme-PortSwigger-orange)
 ![Domaine](https://img.shields.io/badge/Domaine-S%C3%A9curit%C3%A9%20Web-blue)
-![Labs résolus](https://img.shields.io/badge/Labs%20r%C3%A9solus-7-brightgreen)
+![Labs résolus](https://img.shields.io/badge/Labs%20r%C3%A9solus-8-brightgreen)
 
 Write-ups personnels des labs que je résous sur la [Web Security Academy](https://portswigger.net/web-security) de PortSwigger, dans le cadre de ma formation en sécurité offensive web.
 
@@ -21,6 +21,7 @@ Chaque write-up suit la même structure : le contexte du lab, la démarche suivi
 | 5 | UNION attack : extraire des données d'autres tables | Practitioner | [Lire](sql-injection-union-retrieving-data-from-other-tables.md) |
 | 6 | UNION attack : récupérer plusieurs valeurs dans une seule colonne | Practitioner | [Lire](sql-injection-union-retrieving-multiple-values-single-column.md) |
 | 7 | Examiner la base : type et version (Oracle) | Practitioner | [Lire](sql-injection-querying-database-version-oracle.md) |
+| 8 | Examiner la base : type et version (MySQL / Microsoft) | Practitioner | [Lire](sql-injection-querying-database-version-mysql-microsoft.md) |
 
 ## Ce que couvrent ces write-ups
 
