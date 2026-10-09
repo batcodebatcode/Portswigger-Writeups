@@ -2,7 +2,7 @@
 
 ![Plateforme](https://img.shields.io/badge/Plateforme-PortSwigger-orange)
 ![Domaine](https://img.shields.io/badge/Domaine-S%C3%A9curit%C3%A9%20Web-blue)
-![Labs résolus](https://img.shields.io/badge/Labs%20r%C3%A9solus-9-brightgreen)
+![Labs résolus](https://img.shields.io/badge/Labs%20r%C3%A9solus-10-brightgreen)
 
 Write-ups personnels des labs que je résous sur la [Web Security Academy](https://portswigger.net/web-security) de PortSwigger, dans le cadre de ma formation en sécurité offensive web.
 
@@ -23,6 +23,7 @@ Chaque write-up suit la même structure : le contexte du lab, la démarche suivi
 | 7 | Examiner la base : type et version (Oracle) | Practitioner | [Lire](sql-injection-querying-database-version-oracle.md) |
 | 8 | Examiner la base : type et version (MySQL / Microsoft) | Practitioner | [Lire](sql-injection-querying-database-version-mysql-microsoft.md) |
 | 9 | Examiner la base : lister le contenu (non-Oracle) | Practitioner | [Lire](sql-injection-listing-database-contents-non-oracle.md) |
+| 10 | Examiner la base : lister le contenu (Oracle) | Practitioner | [Lire](sql-injection-listing-database-contents-oracle.md) |
 
 ## Ce que couvrent ces write-ups
 
